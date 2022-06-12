@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![screenshot](screenshot.png) ![screenshot](screenshot2.png)
+![screenshot](flappy.gif)
 
 ## Project using pyhton whit:
 * Pygame
