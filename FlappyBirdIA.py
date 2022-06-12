@@ -256,7 +256,7 @@ def main(genomas, config):
                 genoma.fitness += 5
 
         for cano in remover_canos:
-            canos.remove(cano)   
+            canos.remove(cano)
                      
         for i, passaro in enumerate(passaros):
             if (passaro.y + passaro.imagem.get_height()) > chao.y or passaro.y < 0:
